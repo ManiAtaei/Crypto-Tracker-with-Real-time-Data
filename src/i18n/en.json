@@ -1,0 +1,19 @@
+{
+  "common": {
+    "home": "Home",
+    "investments": "Investments",
+    "search": "Search",
+    "favorites": "Favorites",
+    "language": "Language"
+  },
+  "crypto": {
+    "price": "Price",
+    "marketCap": "Market Cap",
+    "volume": "24h Volume",
+    "change": "24h Change",
+    "high": "24h High",
+    "low": "24h Low",
+    "details": "View Details",
+    "back": "Back to Home"
+  }
+}
